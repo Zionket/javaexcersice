@@ -8,9 +8,9 @@ if(age < 13)
     {
         console.log("He/she is a Teenager");
     }
-    else if(age >= 20 && age <= 59)
-    {
-        console.log("He/she is an Adult");
-    }
-    else
-    console.log("He/she is a Senior");
+        else if(age >= 20 && age <= 59)
+        {
+            console.log("He/she is an Adult");
+        }
+                else
+                console.log("He/she is a Senior");
