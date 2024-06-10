@@ -3,7 +3,7 @@ let fruit = 'banana';
 
 switch (fruit) {
   case 'banana':
-    console.log("Bananas are yellow and sweet.");
+    console.log("I Love banana.");
     break;
   case 'apple':
     console.log("Apples come in many varieties and colors.");
