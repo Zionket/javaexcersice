@@ -38,4 +38,4 @@ const circlecurcumferencereult = circleCircumference(4)
 console.log(`Area = ${rectangelarearesult}`)
 console.log(`perimeter = ${rectangelperimeterresult}`)
 console.log(`perimeter = ${circelearearesult}`);
-console.log(`circumfernce = ${circlecurcumferencereult}`);
+console.log(`circumferance = ${circlecurcumferencereult}`);
