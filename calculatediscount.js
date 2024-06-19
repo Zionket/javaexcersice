@@ -6,5 +6,5 @@ return discountPrice;
 
 }
 
-const result = calculatdiscountprice(100,);
+const result = calculatediscountprice(100,);
 console.log(`The final price is ${result}`);
