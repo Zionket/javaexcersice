@@ -30,12 +30,12 @@ function circleCircumference(r){
     return r*pi*2;
 }
 
-const rectangelarearesult = rectangelArea(2,3);
+const rectangelarearesult = rectangelArea(2,-1);
 const rectangelperimeterresult = rectangelPerimeter(2,3);
 const circelearearesult = circeleArea(4);
 const circlecurcumferencereult = circleCircumference(4)
 
-console.log(`Area = ${rectangelarearesult}`)
-console.log(`perimeter = ${rectangelperimeterresult}`)
-console.log(`perimeter = ${circelearearesult}`);
+console.log(`Rectangel Area = ${rectangelarearesult}`)
+console.log(`Rectangel perimeter = ${rectangelperimeterresult}`)
+console.log(`circle Area = ${circelearearesult}`);
 console.log(`circumferance = ${circlecurcumferencereult}`);
