@@ -1,4 +1,4 @@
-let fName = "Tsionnnn";
+let fName = "Tsion";
 let Lname = "Ketema";
 const age = 13;
 let address = "Addis Ababa";
